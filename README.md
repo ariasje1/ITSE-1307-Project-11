@@ -1,4 +1,3 @@
-# ITSE 1307 Project 11
 # Rock, Paper, Scissors Game
 
 ## Overview
